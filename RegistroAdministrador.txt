@@ -1,0 +1,10 @@
+1	frank	Bendezu Hinostroza	n00224430@upn.pe	Administrador	Jr Victor Fajardo	FRANK123	FRA01 
+2	Mijhael	Caceres Gonzales	mijhael@gmail.com	Administrador	Av.Portaaventura	MIJHAEL	MIJA01 
+111	Carlos	Lopez Rojas	carlos123@gmail.com	Vendedor	Jr Ugarte 232	carlos123	1234 
+112	Abigail	 Caceres	aby@gmail.com	Vendedor	av alfonso 212	aby123	qwerty 
+113	Pepe	Rodriguez	pepe123@gmail.com	Administrador	Av Abelardo 12	peepo	aaa 
+114	Soledad	Quispe	soli@gmail.com	Administrador	Jr Huaman	soli1	sss1 
+115	Rafael	Hinostroza	rafa@gmail.com	vendedor	Jr Victor 1	inra	789 
+155	asdas	sadasd	eded@upn.pe	Vendedor	asdasdas	asdsa	12343 
+12345	FRANK	BENDEZU HINOSTROZA	frankmijhael01@gmail.com	VENDEDOR	AV MARISCAL CACERES	FrankM01	12345admin 
+12345	FRANK	BENDEZU HINOSTROZA	frankmijhael01@gmail.com	VENDEDOR	AV MARISCAL CACERES	FrankM01	12345admin 

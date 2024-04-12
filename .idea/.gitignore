@@ -1,0 +1,23 @@
+# Default ignored files
+/shelf/
+../.idea
+../.settings
+../bin
+../.classpath
+../.project
+../jgoodies-common-1.8.0.jar
+../jgoodies-common-1.8.0-sources.jar
+../jgoodies-common-1.8.0.jar
+../jgoodies-forms-1.8.0-sources.jar
+../RegistroAdministrador.txt
+../RegistroCajero.txt
+../RegistroLogin.txt
+../RegistroProducto.txt
+../TiendaDeVideojuegos.iml
+
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
